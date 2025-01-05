@@ -1,6 +1,6 @@
 {
-  "name": "@bigcommerce/catalyst-core",
-  "description": "BigCommerce Catalyst is a Next.js starter kit for building headless BigCommerce storefronts.",
+  "name": "defiance-tactical",
+  "description": "Defiance Tactical Storefront",
   "version": "0.24.1",
   "private": true,
   "scripts": {
